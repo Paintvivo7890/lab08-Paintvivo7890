@@ -41,6 +41,7 @@ function App() {
         </div>
       </div>
       
+      
       {/* Footer ด้านล่าง */}
       <Footer
         year="2025"
