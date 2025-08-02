@@ -12,7 +12,7 @@ function App() {
 
       <div className="d-flex flex-grow-1">
         {/* Sidebar ด้านซ้าย */}
-        <Sidebar userName="Chanaada" type="admin"></Sidebar>
+        <Sidebar userName="Narudee" type="student"></Sidebar>
         {/* Main content */}
         <div className="container text-center">
           <main className="flex-grow-1 p-4">
@@ -40,7 +40,7 @@ function App() {
           </main>
         </div>
       </div>
-     
+
       {/* Footer ด้านล่าง */}
       <Footer
         year="2025"
@@ -50,4 +50,5 @@ function App() {
     </div>
   );
 }
+
 export default App;
