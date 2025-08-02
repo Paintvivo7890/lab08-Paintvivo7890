@@ -40,8 +40,7 @@ function App() {
           </main>
         </div>
       </div>
-      
-      
+     
       {/* Footer ด้านล่าง */}
       <Footer
         year="2025"
@@ -51,5 +50,4 @@ function App() {
     </div>
   );
 }
-
 export default App;
