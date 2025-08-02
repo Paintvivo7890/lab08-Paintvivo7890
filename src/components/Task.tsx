@@ -1,4 +1,4 @@
-import type { TaskCardProps } from "../libs/types";
+import type { TaskCardProps } from "../libs/type";
 
 export function Task(TaskCard:TaskCardProps){
     return (
