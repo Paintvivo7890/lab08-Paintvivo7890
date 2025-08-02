@@ -12,7 +12,7 @@ function App() {
 
       <div className="d-flex flex-grow-1">
         {/* Sidebar ด้านซ้าย */}
-        <Sidebar userName="Sireethorn" type="student"></Sidebar>
+        <Sidebar userName="Narudee" type="student"></Sidebar>
         {/* Main content */}
         <div className="container text-center">
           <main className="flex-grow-1 p-4">
@@ -44,8 +44,8 @@ function App() {
       {/* Footer ด้านล่าง */}
       <Footer
         year="2025"
-        fullName="Sireethorn Pinthong"
-        studentId="670610741"
+        fullName="Narudee Sornsawat"
+        studentId="670610687"
       ></Footer>
     </div>
   );

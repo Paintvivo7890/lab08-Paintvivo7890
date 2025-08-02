@@ -2,7 +2,7 @@ export function TaskInput(){
   return(
           <div className="m-2 p-2">
             <form className="row">
-              <div className="col-10"> <h2>Sireethorn Pinthong</h2>
+              <div className="col-10"> <h2>Naruee Sornsawat</h2>
                 <input
                   className="form-control"
                   type="text"
